@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Monumento
+comment1.params=nombre\ fecha\ ciudad\ altura
+comment1.target=Monumento(java.lang.String,\ int,\ java.lang.String,\ double)
+comment10.params=fecha
+comment10.target=void\ setFecha(int)
+comment11.params=ciudad
+comment11.target=void\ setCiudad(java.lang.String)
+comment12.params=altura
+comment12.target=void\ setAltura(double)
+comment2.params=
+comment2.target=Monumento()
+comment3.params=
+comment3.target=java.lang.String\ conmemorar()
+comment4.params=
+comment4.target=java.lang.String\ simbolizar()
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment6.params=
+comment6.target=int\ getFecha()
+comment7.params=
+comment7.target=java.lang.String\ getCiudad()
+comment8.params=
+comment8.target=double\ getAltura()
+comment9.params=nombre
+comment9.target=void\ setNombre(java.lang.String)
+numComments=13
